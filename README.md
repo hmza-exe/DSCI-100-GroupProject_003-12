@@ -1,4 +1,6 @@
-# DSCI-100-GroupProject_003-12
-Repository for the DSCI 100 group project for group 12 from section 003
+# Kaggle Dataset Analysis: Sleep Health and Lifestyle
+
+This GitHub repository contains the group project completed by students at the University of British Columbia for the DSCI 100 course (Introduction to Data Science), section 003, under the guidance of Prof. Maggie Liu. The project involves an in-depth analysis of a dataset obtained from Kaggle, including data cleaning, exploratory data analysis, and visualization.
+
 
 test change
