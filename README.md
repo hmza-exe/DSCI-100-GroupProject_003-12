@@ -12,3 +12,10 @@ The primary challenges we encountered were minimal and included data cleaning (h
 
 Looking ahead, potential improvements to the project could involve updating the report with more complex analyses to yield more concrete results and enhancing the visual presentation of the findings.
 
+## Credits
+
+**Contributors:**
+- [Julia (Microjoules)](https://github.com/microjoules)
+
+**Dataset:**
+- [Sleep, Health, and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) from Kaggle
